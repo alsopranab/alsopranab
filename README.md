@@ -7,17 +7,6 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 </div>
 
----
-
-## Quick Stats
-
-> Experienced with sales, customer behaviour and operational datasets through practical SQL projects
-
-> Built and analysed relational data models using SQL, Python and Excel
-
-> Skilled in end-to-end analytics: data preparation → exploration → insights → dashboards
-
-> Driven by clarity, structure, and meaningful patterns
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alsopranab&theme=github-dark&hide_border=true&color=6aa84f&line=6aa84f&point=8fce00&area=true&area_color=274e13" />
@@ -64,7 +53,17 @@ Turning scattered data into structure, clarity, and decisions that actually make
   </a>
 </div>
 
+---
 
+## Quick Stats
+
+> Experienced with sales, customer behaviour and operational datasets through practical SQL projects
+
+> Built and analysed relational data models using SQL, Python and Excel
+
+> Skilled in end-to-end analytics: data preparation → exploration → insights → dashboards
+
+> Driven by clarity, structure, and meaningful patterns
 ---
 
 ## What I Do
