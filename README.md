@@ -29,10 +29,10 @@ Turning scattered data into structure, clarity, and decisions that actually make
 </a>
 <br><br>
 
-<img src="https://img.shields.io/badge/58%20%2F%2058%20Problems-Solved-0d1117?style=flat-square&color=00ff99" />
+<img src="https://img.shields.io/badge/58%20%2F%2058%20Problems-Solved-0d1117?style=flat-square&color=006400" />
 <br><br>
 
-<img src="https://img.shields.io/badge/World%20Rank-1%20in%20SQL-0d1117?style=flat-square&color=00ff99" />
+<img src="https://img.shields.io/badge/World%20Rank-1%20in%20SQL-0d1117?style=flat-square&color=006400" />
 </td>
 
 
