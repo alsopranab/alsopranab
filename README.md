@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alsopranab&style=for-the-badge&color=006400&label=PROFILE+VIEWS" />
+</p>
+
+
 <div align="center">
 
 ### Hi, I'm Pranab  
