@@ -10,14 +10,83 @@
 
 Turning scattered data into structure, clarity, and decisions that actually make sense.
 
+
+
+</div>
+
+### SKILL BENCHMARKS
+
+<p align="center">
+
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+
+<!-- HackerRank -->
+<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>HackerRank – SQL</h3>
+
+<img src="https://img.shields.io/badge/HackerRank-SQL%20GOLD-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff9d" /><br><br>
+
+<img src="https://img.shields.io/badge/Problems%20Solved-58%2F58-0d1117?style=flat-square&labelColor=0d1117&color=006400" /><br><br>
+
+<img src="https://img.shields.io/badge/World%20Rank-%231%20in%20SQL-0d1117?style=flat-square&labelColor=0d1117&color=006400" />
+</td>
+
+
+<!-- LeetCode -->
+<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>LeetCode – SQL</h3>
+
+<a href="https://leetcode.com/u/alsopranab/">
+<img src="https://leetcard.jacoblin.cool/alsopranab?theme=dark&border=0&radius=12&hide=rating,heatmap,calendar&bg=0d1117" width="330" />
+</a>
+</td>
+
+
+<!-- GitHub -->
+<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>GitHub – Repositories</h3>
+
+<a href="https://github.com/alsopranab" target="_blank">
+<img src="https://img.shields.io/badge/My%20GitHub-Visit%20Profile-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://github.com/alsopranab">
+<img src="https://img.shields.io/badge/Projects-Data%20Analysis-1f6feb?style=flat-square&logo=github&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://github.com/alsopranab">
+<img src="https://img.shields.io/badge/Projects-SQL%20Practice-238636?style=flat-square&logo=github&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://github.com/alsopranab">
+<img src="https://img.shields.io/badge/Projects-Python%20Scripts-c9510c?style=flat-square&logo=python&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 
+</div>
+
+### CONTRIBUTION GRAPH
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alsopranab&theme=github-dark&hide_border=true&color=6aa84f&line=6aa84f&point=8fce00&area=true&area_color=274e13" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alsopranab&bg_color=0d1117&color=1db954&line=158a40&point=1db954&area=true&hide_title=true&hide_border=true" 
+  />
 </p>
 
-
+<!---
 ### HackerRank – SQL
 
 <div align="center">
@@ -32,12 +101,12 @@ Turning scattered data into structure, clarity, and decisions that actually make
 </a>
 
 <img
-  src="https://img.shields.io/badge/Problems%20Solved-58%20%2F%2058-0d1117?style=flat-square&labelColor=0d1117&color=00ff99"
+  src="https://img.shields.io/badge/Problems%20Solved-58%20%2F%2058-0d1117?style=flat-square&labelColor=0d1117&color=006400"
   alt="HackerRank Problems Solved"
 />
 
 <img
-  src="https://img.shields.io/badge/World%20Rank-%231%20in%20SQL-0d1117?style=flat-square&labelColor=0d1117&color=00ff99"
+  src="https://img.shields.io/badge/World%20Rank-%231%20in%20SQL-0d1117?style=flat-square&labelColor=0d1117&color=006400"
   alt="HackerRank World Rank SQL"
 />
 
@@ -59,7 +128,12 @@ Turning scattered data into structure, clarity, and decisions that actually make
 </div>
 
 ---
+<div align="center">
 
+<table>
+<tr>
+---> 
+---
 ## Quick Stats
 
 > Experienced with sales, customer behaviour and operational datasets through practical SQL projects
