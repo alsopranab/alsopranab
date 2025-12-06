@@ -194,16 +194,7 @@ Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n
 </div>
 
 
----
-
-## 📁 Other Analytics Work
-
-- **Sales & Revenue Analysis** – patterns, KPIs, business insights  
-- **Customer Behaviour Analysis** – segmentation, retention analysis  
-- **Operational Dataset Analysis** – bottlenecks, performance metrics  
-- **SQL Portfolio (15-Day Learning Journey)** – joins, subqueries, windows, views  
-
----
+------
 
 ## 🌐 Profiles
 
@@ -218,3 +209,7 @@ Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n
 **Email:** carrer.pranab@gmail.com  
 
 ---
+
+## 📁 Other Projects Work
+
+
