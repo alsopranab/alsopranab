@@ -45,36 +45,26 @@ Turning scattered data into structure, clarity, and decisions that actually make
 </td>
 
 
-<!-- GitHub -->
+<!-- LinkedIn -->
 <td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
-<h3>GitHub – Repositories</h3>
+<h3>LinkedIn – Profile</h3>
 
-<a href="https://github.com/alsopranab" target="_blank">
-<img src="https://img.shields.io/badge/My%20GitHub-Visit%20Profile-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<!-- LinkedIn Button -->
+<a href="https://www.linkedin.com/in/alsopranab/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br><br>
 
-<a href="https://github.com/alsopranab">
-<img src="https://img.shields.io/badge/Projects-Data%20Analysis-1f6feb?style=flat-square&logo=github&logoColor=white" />
-</a>
+<!-- LinkedIn Stats -->
+<img src="https://img.shields.io/badge/Connections-500%2B-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 <br><br>
 
-<a href="https://github.com/alsopranab">
-<img src="https://img.shields.io/badge/Projects-SQL%20Practice-238636?style=flat-square&logo=github&logoColor=white" />
-</a>
-<br><br>
-
-<a href="https://github.com/alsopranab">
-<img src="https://img.shields.io/badge/Projects-Python%20Scripts-c9510c?style=flat-square&logo=python&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Endorsements-SQL%20%7C%20Data%20Analysis-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
 
 </div>
 
