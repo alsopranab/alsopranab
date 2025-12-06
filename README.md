@@ -2,65 +2,79 @@
   <img src="https://komarev.com/ghpvc/?username=alsopranab&style=for-the-badge&color=006400&label=PROFILE+VIEWS" />
 </p>
 
-
 <div align="center">
 
-### Hi, I'm Pranab  
+## Hi, I'm Pranab  
 ### Data Analyst | Business Intelligence | SQL & Insight-Driven Analytics  
 
 Turning scattered data into structure, clarity, and decisions that actually make sense.
 
-
-
 </div>
 
-### SKILL BENCHMARKS
-
-<p align="center">
+<br>
 
 <div align="center">
+
+## Social & Coding Profiles
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 
 <!-- HackerRank -->
-<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
-<h3>HackerRank – SQL</h3>
+<td align="center" width="25%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>HackerRank</h3>
 
-<img src="https://img.shields.io/badge/HackerRank-SQL%20GOLD-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff9d" /><br><br>
+<a href="https://www.hackerrank.com/profile/alsopranab">
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Gold-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff99&labelColor=0d1117" />
+</a>
+<br><br>
 
-<img src="https://img.shields.io/badge/Problems%20Solved-58%2F58-0d1117?style=flat-square&labelColor=0d1117&color=006400" /><br><br>
+<img src="https://img.shields.io/badge/58%20%2F%2058%20Problems-Solved-0d1117?style=flat-square&color=00ff99" />
+<br><br>
 
-<img src="https://img.shields.io/badge/World%20Rank-%231%20in%20SQL-0d1117?style=flat-square&labelColor=0d1117&color=006400" />
+<img src="https://img.shields.io/badge/World%20Rank-1%20in%20SQL-0d1117?style=flat-square&color=00ff99" />
 </td>
 
 
 <!-- LeetCode -->
-<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
-<h3>LeetCode – SQL</h3>
+<td align="center" width="25%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>LeetCode</h3>
 
 <a href="https://leetcode.com/u/alsopranab/">
-<img src="https://leetcard.jacoblin.cool/alsopranab?theme=dark&border=0&radius=12&hide=rating,heatmap,calendar&bg=0d1117" width="330" />
+<img src="https://leetcard.jacoblin.cool/alsopranab?theme=dark&border=0&radius=12&hide=rating,heatmap,calendar&bg=0d1117" width="250" />
 </a>
 </td>
 
 
-<!-- LinkedIn -->
-<td align="center" width="33%" style="vertical-align: top; padding: 20px; border: none;">
-<h3>LinkedIn – Profile</h3>
+<!-- GitHub -->
+<td align="center" width="25%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>GitHub</h3>
 
-<!-- LinkedIn Button -->
-<a href="https://www.linkedin.com/in/alsopranab/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/alsopranab">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br><br>
 
-<!-- LinkedIn Stats -->
+<img src="https://img.shields.io/badge/Projects-Data%20Analysis-1f6feb?style=flat-square&logo=github&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Projects-SQL%20Practice-238636?style=flat-square&logo=github&logoColor=white" />
+</td>
+
+
+<!-- LinkedIn -->
+<td align="center" width="25%" style="vertical-align: top; padding: 20px; border: none;">
+<h3>LinkedIn</h3>
+
+<a href="https://www.linkedin.com/in/alsopranab/">
+<img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br><br>
+
 <img src="https://img.shields.io/badge/Connections-500%2B-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 <br><br>
 
-<img src="https://img.shields.io/badge/Endorsements-SQL%20%7C%20Data%20Analysis-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Skills-SQL%20%7C%20Data%20Analysis-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </td>
 
 </tr>
@@ -68,7 +82,9 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 </div>
 
-### CONTRIBUTION GRAPH
+<br>
+
+## 📊 Contribution Graph
 
 <p align="center">
   <img 
@@ -76,82 +92,34 @@ Turning scattered data into structure, clarity, and decisions that actually make
   />
 </p>
 
-<!---
-### HackerRank – SQL
-
-<div align="center">
-
-### HackerRank – SQL
-
-<a href="https://www.hackerrank.com/profile/alsopranab">
-  <img
-    src="https://img.shields.io/badge/HackerRank-SQL%20Gold-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff99&labelColor=0d1117"
-    alt="HackerRank SQL Gold"
-  />
-</a>
-
-<img
-  src="https://img.shields.io/badge/Problems%20Solved-58%20%2F%2058-0d1117?style=flat-square&labelColor=0d1117&color=006400"
-  alt="HackerRank Problems Solved"
-/>
-
-<img
-  src="https://img.shields.io/badge/World%20Rank-%231%20in%20SQL-0d1117?style=flat-square&labelColor=0d1117&color=006400"
-  alt="HackerRank World Rank SQL"
-/>
-
-</div>
-
-
-</div>
-
-### LeetCode – SQL
-
-<div align="center">
-  <a href="https://leetcode.com/u/alsopranab/">
-    <img
-      src="https://leetcard.jacoblin.cool/alsopranab?theme=dark&border=0&radius=12&hide=rating,heatmap,calendar&bg_color=0d1117"
-      width="420"
-      alt="LeetCode Stats Card"
-    />
-  </a>
-</div>
-
----
-<div align="center">
-
-<table>
-<tr>
----> 
----
-## Quick Stats
-
-> Experienced with sales, customer behaviour and operational datasets through practical SQL projects
-
-> Built and analysed relational data models using SQL, Python and Excel
-
-> Skilled in end-to-end analytics: data preparation → exploration → insights → dashboards
-
-> Driven by clarity, structure, and meaningful patterns
 ---
 
-## What I Do
+## ⚡ Quick Stats (About Me)
 
-**Data Cleaning & Preparation**  
->Restructuring datasets, handling missing values, outliers and building meaningful features using Python (Pandas, NumPy).
-
-**Exploratory Data Analysis (EDA)**  
->Identifying patterns, behaviours and correlations through structured analysis and visual interpretation.
-
-**Visualization & Reporting**  
->Building clear dashboards, reports and data stories that decision-makers can understand quickly.
-
-**Business Insights**  
->Breaking down data into actionable steps that help improve revenue, operations, user behaviour or performance metrics.
+> Experienced with sales, customer behaviour and operational datasets through practical SQL projects.  
+> Built and analysed relational data models using SQL, Python and Excel.  
+> Skilled in end-to-end analytics: data preparation → exploration → insights → dashboards.  
+> Driven by clarity, structure, and meaningful pattern discovery.
 
 ---
 
-## Tech & Tools
+## 🔍 What I Do
+
+### **Data Cleaning & Preparation**  
+> Restructuring datasets, handling missing values, outliers, and creating meaningful features (Python: Pandas, NumPy).
+
+### **Exploratory Data Analysis (EDA)**  
+> Finding patterns, correlations, behaviours and generating insights.
+
+### **Visualisation & Reporting**  
+> Creating clean and intuitive dashboards using Power BI, Looker Studio, and Excel.
+
+### **Business Insights**  
+> Translating numbers into actions that drive decisions — revenue, customer behaviour, KPIs, efficiency.
+
+---
+
+## 🛠 Tech & Tools
 
 **Languages:**  
 Python, SQL  
@@ -160,53 +128,93 @@ Python, SQL
 Pandas, NumPy, Matplotlib, Seaborn  
 
 **Analytics & BI:**  
-Excel, Jupyter Notebook, Looker Studio, Power BI 
+Excel, Jupyter Notebook, Power BI, Looker Studio  
 
 **Other:**  
-Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n etc.
+Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n  
 
 ---
 
-## Highlight Project: Uber Trip Analysis
+## 🚀 Project Showcase
 
-A complete exploration of trip behaviour with the goal of identifying patterns and operational efficiencies.
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
 
-- Analysed duration, distance, fare structures and time-of-day behaviour  
-- Identified peak-hour patterns and improvement opportunities  
-- Visualised distributions, correlations and insights using Matplotlib and Seaborn  
+<!-- Project 1 -->
+<td width="33%" align="center" style="padding: 20px; border: none;">
+  <div style="
+    background-color: #0d1117; 
+    padding: 20px; 
+    border-radius: 12px; 
+    box-shadow: 0 0 12px rgba(0, 255, 120, 0.15);
+  ">
+    <h3>Uber Trip Analysis</h3>
+    <p>Complete analysis of trip duration, fares, distance patterns & hourly behaviour.</p>
+    <a href="https://github.com/alsopranab/Uber-Data-Analysis">
+      <img src="https://img.shields.io/badge/View%20Project-121212?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</td>
 
->Link: *https://github.com/alsopranab/Uber-Data-Analysis*
+<!-- Project 2 -->
+<td width="33%" align="center" style="padding: 20px; border: none;">
+  <div style="
+    background-color: #0d1117; 
+    padding: 20px; 
+    border-radius: 12px; 
+    box-shadow: 0 0 12px rgba(0, 255, 120, 0.15);
+  ">
+    <h3>SQL Portfolio (15 Days)</h3>
+    <p>Daily SQL learning path including joins, windows, subqueries & views.</p>
+    <a href="https://github.com/alsopranab">
+      <img src="https://img.shields.io/badge/View%20Portfolio-121212?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</td>
+
+<!-- Project 3 -->
+<td width="33%" align="center" style="padding: 20px; border: none;">
+  <div style="
+    background-color: #0d1117; 
+    padding: 20px; 
+    border-radius: 12px; 
+    box-shadow: 0 0 12px rgba(0, 255, 120, 0.15);
+  ">
+    <h3>Sales & Revenue Analysis</h3>
+    <p>Insights on trends, performance, customer spend and growth opportunities.</p>
+    <a href="https://github.com/alsopranab">
+      <img src="https://img.shields.io/badge/View%20Analysis-121212?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ---
 
-## Other Analytics Work
+## 📁 Other Analytics Work
 
-- **Sales & Revenue Analysis** – performance breakdowns, trend and seasonality insights  
-- **Customer Behaviour Analysis** – segmentation, retention, pattern detection  
-- **Operational Metrics** – journey times, bottleneck analysis, KPI tracking  
-- **SQL Portfolio (15-Day Learning Journey)** – full dataset, scripts, joins, queries, and views
-
-(Replace these with links as you publish each repo.)
+- **Sales & Revenue Analysis** – patterns, KPIs, business insights  
+- **Customer Behaviour Analysis** – segmentation, retention analysis  
+- **Operational Dataset Analysis** – bottlenecks, performance metrics  
+- **SQL Portfolio (15-Day Learning Journey)** – joins, subqueries, windows, views  
 
 ---
 
-## Profiles & Competitive Coding
+## 🌐 Profiles
 
-**LeetCode:**  
-https://leetcode.com/u/alsopranab/
-
-**HackerRank:**  
-https://www.hackerrank.com/profile/alsopranab
+**LeetCode:** https://leetcode.com/u/alsopranab/  
+**HackerRank:** https://www.hackerrank.com/profile/alsopranab  
 
 ---
 
-## Let’s Connect
+## 🤝 Let’s Connect
 
-**LinkedIn:**  
-https://www.linkedin.com/in/alsopranab/
-
-**Email:**  
-carrer.pranab@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/alsopranab/  
+**Email:** carrer.pranab@gmail.com  
 
 ---
-
