@@ -84,7 +84,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 <br>
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img 
@@ -94,7 +94,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 ---
 
-## ⚡ Quick Stats (About Me)
+## Quick Stats (About Me)
 
 > Experienced with sales, customer behaviour and operational datasets through practical SQL projects.  
 > Built and analysed relational data models using SQL, Python and Excel.  
@@ -102,8 +102,8 @@ Turning scattered data into structure, clarity, and decisions that actually make
 > Driven by clarity, structure, and meaningful pattern discovery.
 
 ---
-
-## 🔍 What I Do
+<!---
+## What I Do
 
 ### **Data Cleaning & Preparation**  
 > Restructuring datasets, handling missing values, outliers, and creating meaningful features (Python: Pandas, NumPy).
@@ -119,7 +119,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 ---
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 **Languages:**  
 Python, SQL  
@@ -132,10 +132,10 @@ Excel, Jupyter Notebook, Power BI, Looker Studio
 
 **Other:**  
 Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n  
-
+--->
 ---
 
-## 🚀 Project Showcase
+## Project Showcase
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
@@ -196,20 +196,16 @@ Git, GitHub, automation mindset, structured problem-solving, Power Automate, n8n
 
 ------
 
-## 🌐 Profiles
+## Profiles
 
 **LeetCode:** https://leetcode.com/u/alsopranab/  
 **HackerRank:** https://www.hackerrank.com/profile/alsopranab  
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 **LinkedIn:** https://www.linkedin.com/in/alsopranab/  
 **Email:** carrer.pranab@gmail.com  
-
----
-
-## 📁 Other Projects Work
 
 
