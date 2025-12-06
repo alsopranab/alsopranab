@@ -96,11 +96,17 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 ## Quick Stats (About Me)
 
-> Experienced with sales, customer behaviour and operational datasets through practical SQL projects.  
-> Built and analysed relational data models using SQL, Python and Excel.  
-> Skilled in end-to-end analytics: data preparation → exploration → insights → dashboards.  
-> Driven by clarity, structure, and meaningful pattern discovery.
+> Experienced in working with sales, customer behaviour, and operational datasets across fast-paced business environments.
 
+> Strong foundation in SQL, Python, and Excel for data querying, modelling, validation, and performance analysis.
+
+> Skilled in conducting end-to-end exploratory data analysis (EDA) — identifying trends, behavioural patterns, gaps, and optimisation opportunities.
+
+> Proficient in transforming raw data into structured, reliable reporting assets and automated workflows used by cross-functional teams.
+
+> Comfortable building dashboards, KPI frameworks, and actionable insights that support decision-making for product, operations, and business teams.
+
+> Focused on data accuracy, process consistency, and clean analytical logic, ensuring clarity in every stage of analysis.
 ---
 <!---
 ## What I Do
