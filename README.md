@@ -29,7 +29,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
       box-shadow: 0 8px 28px rgba(0, 255, 120, 0.18);
     ">
       <img
-        src="https://raw.githubusercontent.com/alsopranab/alsopranab.github.io/main/website/website.png"
+        src="https://raw.githubusercontent.com/alsopranab/alsopranab/main/website/alsopranab.png"
         alt="alsopranab.vercel.app – Website Preview"
         width="100%"
         style="border-radius: 12px;"
