@@ -15,6 +15,18 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 <div align="center">
 
+
+## Website
+
+<p align="center">
+  <img 
+    src="alsopranab.github.io/website/website.png" 
+    alt="Website Preview"
+    width="700"
+    style="border-radius: 12px;"
+  />
+</p>
+
 ## Social & Coding Profiles
 
 <table style="border-collapse: collapse; border: none;">
