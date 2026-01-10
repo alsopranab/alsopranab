@@ -43,7 +43,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 <h3 align="left"> Stuffs I love :) </h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 14px; margin-top: 12px;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 14px; margin-top: 12px;">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
   </a>
@@ -102,9 +102,9 @@ Turning scattered data into structure, clarity, and decisions that actually make
   </a>
 </p>
 
-<!--
 
-### Projects
+
+### Few projects!!!!
 
 <div style="
   max-width: 900px;
@@ -133,7 +133,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 - **Pranab Sql Learning 15days** → https://github.com/alsopranab/pranab-sql-learning-15days
 
 <!-- PROJECTS:END -->
-<!--
+
 </div>
 
--->
+
