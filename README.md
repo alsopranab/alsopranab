@@ -117,7 +117,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 ">
 
 <!-- PROJECTS:START -->
-<!--
+
 ### ETL & Data Engineering
 
 - **Alsopranab** → https://github.com/alsopranab/alsopranab
@@ -131,7 +131,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 ### SQL Projects
 
 - **Pranab Sql Learning 15days** → https://github.com/alsopranab/pranab-sql-learning-15days
--->
+
 <!-- PROJECTS:END -->
 <!--
 </div>
