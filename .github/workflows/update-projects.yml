@@ -26,21 +26,27 @@ jobs:
             const fs = require("fs");
             const username = "alsopranab";
 
-            const sections = {
-              "data-analysis": "Data Analysis Projects",
-              "sql": "SQL Projects",
-              "python": "Python Projects",
-              "etl": "ETL & Data Engineering",
-              "machine-learning": "Machine Learning Projects",
-              "deep-learning": "Deep Learning Projects",
-              "dashboard": "Dashboards & BI",
-              "automation": "Automation Projects",
-              "practice": "Practice & Learning"
-            };
+            // Priority order (top = strongest signal)
+            const sections = [
+              { topic: "etl", title: "ETL & Data Engineering" },
+              { topic: "machine-learning", title: "Machine Learning Projects" },
+              { topic: "ml", title: "Machine Learning Projects" },
+              { topic: "automation", title: "Automation Projects" },
+              { topic: "python", title: "Python Projects" },
+              { topic: "sql", title: "SQL Projects" },
+              { topic: "statistics", title: "Statistics Projects" },
+              { topic: "excel", title: "Excel Projects" }
+            ];
 
             const repos = await github.paginate(
               github.rest.repos.listForUser,
-              { username, per_page: 100 }
+              {
+                username,
+                per_page: 100,
+                headers: {
+                  accept: "application/vnd.github.mercy-preview+json"
+                }
+              }
             );
 
             const cleanName = (name) =>
@@ -48,22 +54,25 @@ jobs:
                 .replace(/[-_]+/g, " ")
                 .replace(/\b\w/g, c => c.toUpperCase());
 
+            const usedRepos = new Set();
             let output = "";
 
-            for (const [topic, title] of Object.entries(sections)) {
-              const filtered = repos
+            for (const section of sections) {
+              const matched = repos
                 .filter(repo =>
                   !repo.fork &&
                   !repo.archived &&
-                  repo.topics?.includes(topic)
+                  repo.topics?.includes(section.topic) &&
+                  !usedRepos.has(repo.name)
                 )
                 .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
 
-              if (!filtered.length) continue;
+              if (!matched.length) continue;
 
-              output += `### ${title}\n\n`;
+              output += `### ${section.title}\n\n`;
 
-              filtered.forEach(repo => {
+              matched.forEach(repo => {
+                usedRepos.add(repo.name);
                 output += `- **${cleanName(repo.name)}** → ${repo.html_url}\n`;
               });
 
