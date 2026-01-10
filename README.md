@@ -49,9 +49,19 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 <!-- PROJECTS:START -->
 
-<ul style="list-style: none; padding-left: 0; margin: 0;">
-  <!-- Projects will be auto-injected here -->
-</ul>
+### ETL & Data Engineering
+
+- **Alsopranab** → https://github.com/alsopranab/alsopranab
+- **Restaurant Analytics SQL To BI ETL** → https://github.com/alsopranab/Restaurant-Analytics-SQL-to-BI-ETL
+
+### Python Projects
+
+- **Advertising Data Analysis Using TOC** → https://github.com/alsopranab/Advertising-Data-Analysis-Using--TOC
+- **Web Scraping IMDB Movie Rating Using Python** → https://github.com/alsopranab/Web-Scraping-IMDB-movie-rating-using-Python
+
+### SQL Projects
+
+- **Pranab Sql Learning 15days** → https://github.com/alsopranab/pranab-sql-learning-15days
 
 <!-- PROJECTS:END -->
 
