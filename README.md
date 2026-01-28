@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## Hi, I'm Pranab Debnath 
+## Hi, I'm Pranab Debnath (alsopranab)
 ### Data Analyst | Business Intelligence | SQL & Insight-Driven Analytics  
 
 Turning scattered data into structure, clarity, and decisions that actually make sense.
