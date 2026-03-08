@@ -125,6 +125,7 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 ### Python Projects
 
+- **FocusLensAI** → https://github.com/alsopranab/FocusLensAI
 - **Advertising Data Analysis Using TOC** → https://github.com/alsopranab/Advertising-Data-Analysis-Using--TOC
 - **Web Scraping IMDB Movie Rating Using Python** → https://github.com/alsopranab/Web-Scraping-IMDB-movie-rating-using-Python
 
