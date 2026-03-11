@@ -125,6 +125,8 @@ Turning scattered data into structure, clarity, and decisions that actually make
 
 ### Python Projects
 
+- **Realtime Lie Detector** → https://github.com/alsopranab/realtime-lie-detector
+- **Anime Rage Meter** → https://github.com/alsopranab/anime-rage-meter
 - **FocusLensAI** → https://github.com/alsopranab/FocusLensAI
 - **Advertising Data Analysis Using TOC** → https://github.com/alsopranab/Advertising-Data-Analysis-Using--TOC
 - **Web Scraping IMDB Movie Rating Using Python** → https://github.com/alsopranab/Web-Scraping-IMDB-movie-rating-using-Python
